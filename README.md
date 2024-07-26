@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haymanot-demis&label=Profile%20views&color=0e75b6&style=flat" alt="haymanot-demis" /> </p>
 
-- 🔭 I’m currently working on **[https://eskalate.io](Eskalate)**
+- 🔭 I’m currently working on **[Eskalate](https://eskalate.io)**
 
 - 🌱 I’m currently learning **React**
 
