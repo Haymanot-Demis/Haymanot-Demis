@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **[Eskalate](https://eskalate.io)**
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Backend web development, NodeJS, Express.js, ASP.NET, Python, DSA**
 
 - 📫 How to reach me **haymanotdemis1@gmail.com**
