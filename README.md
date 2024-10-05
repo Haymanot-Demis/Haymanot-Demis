@@ -14,8 +14,8 @@
 <p align="left">
 <a href="https://twitter.com/haymanot_demis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haymanot_demis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/haymanot-demis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haymanot-demis/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/haymanotdemis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/haymanotdemis" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/haymanotdemis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/haymanotdemis/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/haymanotdemis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/haymanotdemis" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/HaymanotDemis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/haymanotdemis/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
