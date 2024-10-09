@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haymanot-demis&label=Profile%20views&color=0e75b6&style=flat" alt="haymanot-demis" /> </p>
 
-- 🔭 I’m currently working on **[Eskalate](https://eskalate.io)**
-
 - 💬 Ask me about **Backend web development, NodeJS, Express.js, ASP.NET, Python, DSA**
 
 - 📫 How to reach me **haymanotdemis1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me on:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/haymanot_demis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haymanot_demis" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/haymanot-demis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haymanot-demis/" height="30" width="40" /></a>
