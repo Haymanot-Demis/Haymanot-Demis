@@ -7,8 +7,6 @@
 - 💬 Ask me about **Backend web development, NodeJS, Express.js, .NET Core, Python, DSA**
 
 - 📫 How to reach me **haymanotdemis1@gmail.com**
-
-<h3 align="left">Connect me on:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/haymanot_demis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haymanot_demis" height="30" width="40" /></a> -->
 <!-- <a href="https://www.linkedin.com/in/haymanot-demis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haymanot-demis/" height="30" width="40" /></a> -->
