@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haymanot-demis&label=Profile%20views&color=0e75b6&style=flat" alt="haymanot-demis" /> </p>
 
-- 💬 Ask me about **Backend web development, NodeJS, Express.js, .NET Core, Python, DSA**
+- 💬 Ask me about **Web development, React js, NodeJS, Express.js, .NET Core, Python, DSA**
 
 - 📫 How to reach me **haymanotdemis1@gmail.com**
 <p align="left">
